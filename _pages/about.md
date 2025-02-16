@@ -18,7 +18,7 @@ Additionally, I am interested in exploring diverse applications of language mode
 ## Publications
 - **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>**
 [[paper]](https://openreview.net/pdf?id=98d7DLMGdt) \\
-**Doohyuk Jang\***, **Sihwan Park\***, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sungyub Kim, Eunho Yang
+**Doohyuk Jang\***, Sihwan Park\*, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sungyub Kim, Eunho Yang
 <span style="color:darkred">**ICLR**</span> 2025
 
 - **<font size="4">PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning</font>**
@@ -42,3 +42,16 @@ IEEE Access, 2024
 - **M.S.** in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2023 - Aug. 2024</font> 
 
 - **B.S.** in Electrical Engineering, Computer Science, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2018 - Feb. 2023</font>
+
+## Work Experiences
+- Intern, **Synopsys Korea**, Gyeonggi, South Korea, <font size="3"> Mar 2021 - Aug 2021 </font>
+
+## Projects
+- Developing a conversational language model for virtual doctors, **AITRICS**, <font size="3">Apr. 2024 - May. 2024</font>
+
+## Acamdeic Services
+- Workshop Reviewer
+    - SCOPE@ICLR 2025
+
+## Teaching Experience
+- **Teaching Assistant**, Machine Learning for AI (AI501), KAIST

@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Doohyuk Jang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/doohyuk-profile.jpg"
   bio              : "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Daejeon, South Korea"
   email            :

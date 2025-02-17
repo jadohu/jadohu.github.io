@@ -32,7 +32,7 @@ Under Review
 - **<font size="4">SeamsTalk: Seamless Talking Face Generation via Flow-Guided Inpainting</font>**
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10479466) \\
 Yeongho Jeong, Gyeongman Kim, **Doohyuk Jang**,  Jaeryong Hwang, Eunho Yang \\
-IEEE Access, 2024
+<span style="color:darkred">**IEEE Access**</span> 2024
 
 ## Education
 - **Ph.D.**  in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Sep. 2024 - Present</font> 

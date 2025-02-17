@@ -10,9 +10,7 @@ redirect_from:
 
 Hello, I am a Ph.D student at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
 
-My research interest focuses on **enhancing the efficiency of foundation models**, particularly in the context of auto-regressive generative models. Specifically, I aim to improve **inference-time efficiency** by optimizing both memory usage and latency. 
-
-Additionally, I am interested in exploring diverse applications of language models across various domains.
+My research focuses on **enhancing the efficiency of foundation models**, particularly auto-regressive generative models. I aim to improve inference-time efficiency by optimizing memory usage and reducing latency, leveraging techniques such as **speculative decoding** and **knowledge distillation**, among others.
 
 
 ## Publications

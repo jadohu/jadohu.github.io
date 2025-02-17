@@ -24,15 +24,15 @@ My research focuses on **enhancing the efficiency of foundation models**, partic
 Gyeongman Kim, **Doohyuk Jang**, Eunho Yang \\
 <span style="color:darkred">**Findings of EMNLP**</span> 2024
 
-- **<font size="4">Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain</font>**
-[[paper]](https://arxiv.org/pdf/2411.16123) \\
-Hangyul Yoon, **Doohyuk Jang**, Jungeun Kim, Eunho Yang \\
-Under Review
-
 - **<font size="4">SeamsTalk: Seamless Talking Face Generation via Flow-Guided Inpainting</font>**
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10479466) \\
 Yeongho Jeong, Gyeongman Kim, **Doohyuk Jang**,  Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**IEEE Access**</span> 2024
+
+- **<font size="4">Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain</font>**
+[[paper]](https://arxiv.org/pdf/2411.16123) \\
+Hangyul Yoon, **Doohyuk Jang**, Jungeun Kim, Eunho Yang \\
+Under Review
 
 ## Education
 - **Ph.D.**  in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Sep. 2024 - Present</font> 

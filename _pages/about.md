@@ -12,6 +12,8 @@ Hello, I am a Ph.D student at [Machine Learning and Intelligence Lab](https://ml
 
 My research focuses on **enhancing the efficiency of foundation models**, particularly auto-regressive generative models. I aim to improve inference-time efficiency by optimizing memory usage and reducing latency, leveraging techniques such as **speculative decoding** and **knowledge distillation**, among others.
 
+Additionally, I am interested in advancing the efficiency and effectiveness of **Large Reasoning Models (LRMs)** on complex reasoning tasks. Specifically, my goal is to develop methods that significantly accelerate and/or enhance reasoning model during both training and inference time. 
+
 
 ## Publications
 - **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>**
@@ -29,10 +31,15 @@ Gyeongman Kim, **Doohyuk Jang**, Eunho Yang \\
 Yeongho Jeong, Gyeongman Kim, **Doohyuk Jang**,  Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**IEEE Access**</span> 2024
 
+- **<font size="4">Reasoning Model is Stubborn: Diagnosing Instruction Overriding in Reasoning Models</font>**
+[[paper]](https://arxiv.org/abs/2505.17225) [[project page]](https://github.com/ReasoningTrap/ReasoningTrap) \\
+**Doohyuk Jang\***, Yoonjeon Kim\*, Yoonjeon Kim$^{*}$, Chanjae Park, Hyun Ryu, Eunho Yang \\
+Preprint
+
 - **<font size="4">Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain</font>**
 [[paper]](https://arxiv.org/pdf/2411.16123) \\
 Hangyul Yoon, **Doohyuk Jang**, Jungeun Kim, Eunho Yang \\
-Under Review
+Preprint
 
 ## Education
 - **Ph.D.**  in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Sep. 2024 - Present</font> 
@@ -53,3 +60,4 @@ Under Review
 
 ## Teaching Experience
 - **Teaching Assistant**, Machine Learning for AI (AI501), KAIST
+- **Teaching Assistant**, Advanced Machine Learning for AI (AI601), KAIST

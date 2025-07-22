@@ -33,7 +33,7 @@ Yeongho Jeong, Gyeongman Kim, **Doohyuk Jang**,  Jaeryong Hwang, Eunho Yang \\
 
 - **<font size="4">Reasoning Model is Stubborn: Diagnosing Instruction Overriding in Reasoning Models</font>**
 [[paper]](https://arxiv.org/abs/2505.17225) [[project page]](https://github.com/ReasoningTrap/ReasoningTrap) \\
-**Doohyuk Jang\***, Yoonjeon Kim\*, Yoonjeon Kim$^{*}$, Chanjae Park, Hyun Ryu, Eunho Yang \\
+**Doohyuk Jang\***, Yoonjeon Kim\*, Chanjae Park, Hyun Ryu, Eunho Yang \\
 Preprint
 
 - **<font size="4">Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain</font>**

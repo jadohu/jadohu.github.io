@@ -31,6 +31,11 @@ Gyeongman Kim, **Doohyuk Jang**, Eunho Yang \\
 Yeongho Jeong, Gyeongman Kim, **Doohyuk Jang**,  Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**IEEE Access**</span> 2024
 
+- **<font size="4">Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement Learning</font>**
+[[paper]](https://www.arxiv.org/abs/2510.03259) \\
+Yoonjeon Kim\*, **Doohyuk Jang\***, Eunho Yang \\
+Preprint
+
 - **<font size="4">Reasoning Model is Stubborn: Diagnosing Instruction Overriding in Reasoning Models</font>**
 [[paper]](https://arxiv.org/abs/2505.17225) [[project page]](https://github.com/ReasoningTrap/ReasoningTrap) \\
 **Doohyuk Jang\***, Yoonjeon Kim\*, Chanjae Park, Hyun Ryu, Eunho Yang \\
